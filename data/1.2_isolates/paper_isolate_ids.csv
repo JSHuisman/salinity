@@ -1,0 +1,154 @@
+isolate_id,plate_date,inoc,plate_temperature,plate_salinity,plate_storage,morphology,color,sanger,class,order,family,genus,species
+1,D7,fucus,room,31,-,egg,orangish,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+2,D7,nahant,15C,46,-,black outer ring dark,black,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+3,D7,nahant,15C,46,-,black outer ring light,black,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+4,D7,charles,room,31,-,super pink tiny,pink,x,Cytophagia,Cytophagales,Cyclobacteriaceae,Algoriphagus,NA
+5,D7,fucus,15C,46,-,black,black,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+6,D7,charles,room,16,-,pink large opaque,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,NA
+7,D7,nahant,15C,31,-,orangeish,orangish,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+8,D7,charles,room,31,-,white large,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,ostreae
+9,D7,nahant,15C,31,-,light pink structured,pink,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,NA
+10,D7,charles,room,16,-,white,white,x,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,fragi
+11,D7,nahant,15C,31,-,pinkish-whiteish,pinkish,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+12,D7,nahant,15C,46,-,large orangish,orangish,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+13,D7,nahant,room,46,-,whitish irregular,whitish,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,distincta
+14,D7,fucus,room,16,-,small translucent,translucent,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,nubinhibens
+15,D7,fucus,15C,46,-,whitish large round,whitish,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+16,D7,charles,room,16,-,pearl-like white small,white,x,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,movanagher
+17,D7,nahant,15C,16,-,white opaque irregular,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+18,D7,nahant,room,31,-,small translucent,translucent,x,Alphaproteobacteria,Hyphomicrobiales,Ahrensiaceae,Ahrensia,kielensis
+19,D7,nahant,room,16,-,yellow round translucent,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Lacinutrix,mariniflava
+21,D7,nahant,room,16,-,yellow fuzzy,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,fucicola
+22,D7,nahant,room,16,-,originally darker yellow,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Lacinutrix,algicola
+25,D7,charles,room,31,-,white opaque round bubbly,white,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Albirhodobacter,confluentis
+26,D7,nahant,room,16,-,round small white translucent,white,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter,NA
+27,D7,fucus,15C,31,-,pink graw translucent,pink,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+28,D7,charles,15C,31,-,white translucent outer - opaque mid,white,x,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,polaris
+29,D7,nahant,room,46,-,orangish irregular,orangish,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Prydzensis?
+30,D7,charles,room,46,-,translucent medium,translucent,x,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,profundi?
+32,D7,nahant,15C,46,-,pink-grey large opaque,pink,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,nigrifaciens
+34,D7,fucus,room,31,-,orangeish,orangish,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,neustonica
+35,D7,nahant,15C,16,-,pink opaque small,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,frigidimarina?
+36,D7,nahant,15C,16,-,pink translucent,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,vesiculosa?
+37,D7,ica,room,31,-,orangeish,orangish,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,neustonica
+38,D7,ica,room,31,-,translucent/transparent,translucent,x,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,sp.
+39,D7,ica,room,16,-,round white small,white,x,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,fragi
+40,D7,ica,room,16,-,pink large,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,xiamensis
+41,D7,ica,room,16,-,white round top,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,NA
+42,D7,ica,room,16,-,small round white,white,x,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,NA
+43,D7,ica,room,16,-,large translucent,translucent,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,aliena
+44,D7,ica,room,16,-,small pinkish translucent,pinkish,x,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,veronii
+45,D7,ica,room,16,-,white translucent medium,white,x,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,polaris
+18c,D7,nahant,room,31,-,-,-,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+44c,D7,ica,room,16,-,-,-,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,aliena
+A2M03,Cordero,nahant,-,-,-,orange yellow,orange,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Zobellia,galactanivorans
+B2R09,Cordero,nahant,-,-,-,white/brown small,white,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,nubinhibens
+B2R22,Cordero,nahant,-,-,-,-,-,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Octadecabacter,ascidiaceicola
+B3M08,Cordero,nahant,-,-,-,translucent small,translucent,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Sulfitobacter,sp.
+B3R09,Cordero,nahant,-,-,-,small white,white,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Thalassobius,NA
+C1,D0,charles,-,-,-,yellow white,orange,x,Bacilli,Caryophanales,Caryophanaceae,Jeotgalibacillus,alkaliphilus
+C2,D0,charles,-,-,-,tiny red,red,x,Actinomycetia,Micrococcales,Micrococcaceae,Arthrobacter,agilis
+C2R09,Cordero,nahant,-,-,-,yellow small,yellow,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,sp.
+C3,D0,charles,-,-,-,fluorescent yellow green,yellow,x,Actinomycetia,Micrococcales,Micrococcaceae,Paeniglutamicibacter,terrestris
+C3M06,Cordero,nahant,-,-,-,white small,white,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceanicola,sp.
+C3M10,Cordero,nahant,-,-,-,tiny white/brown,white,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Phaeobacter,gallaeciensis
+D2R04,Cordero,nahant,-,-,-,small white,white,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pacificibacter,marinus
+E3R09,Cordero,nahant,-,-,-,-,-,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Winogradskyella,psychrotolerans
+E3R11,Cordero,nahant,-,-,-,-,-,x,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,hepatarius
+F16_20C_D3_1,D3,fucus,room,16,-,yellow,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Lacinutrix,algicola
+F16_20C_D3_2,D3,fucus,room,16,-,brown,brown,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,nubinhibens
+F16_20C_r3,D7,fucus,room,16,-,white,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,elyakovii
+F46_15C_r1,D7,fucus,15C,46,-,white,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,aliena
+I.A2,D0,nahant,-,-,I,"pink brown, ring structure (central bump?), some effect on agar",pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,japonica
+I.A5,D0,nahant,-,-,I,"irregular yellow, almost fuzzy?",yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Celullophaga,sp.
+I.B1,D0,nahant,-,-,I,"very black, secreting brown pigment, strong rings",black,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+I.B12,D0,fucus,-,-,I,"dark grey center, broad white rim",black,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+I.B2,D0,nahant,-,-,I,"white, structured with rim",white,x,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Pseudocolwellia,agarivorans
+I.B3,D0,nahant,-,-,I,"small white, a bit transparent",white,x,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,NA,NA
+I.B5,D0,nahant,-,-,I,"small yellow, almost fluorescent from bottom",yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Dokdonia,sp.
+I.C11,D0,fucus,-,-,I,"white orangeish, very mucoid",white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+I.C2,D0,nahant,-,-,I,"brown pinkish center, white rim; start of rings; some secretion into agar; some agar eating? Egg",brown,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+I.D3,D0,nahant,-,-,I,"white, very flat and slimy",white,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,sp.
+I.D4,D0,nahant,-,-,I,"white, structured with rim; interesting phenotype in liquid",white,x,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Cognaticolwellia,sediminilitoris
+I.D5,D0,nahant,-,-,I,white yellowish; structured with dots in center; interesting branches in liquid,white,x,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,sp.
+I.E11,D0,fucus,-,-,I,big white; some darker white in the middle; smelly,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+I.E12,D0,fucus,-,-,I,"whiteish yellow mucoid, some translucency; smelly",yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Polaribacter,undariae
+I.E2,D0,nahant,-,-,I,"whiteish yellowish brownish, mucoid",yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Polaribacter,atrinae
+I.E3,D0,nahant,-,-,I,"small yellow, very defined, almost fluorescent from bottom",yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Olleya,sp.
+I.E4,D0,nahant,-,-,I,"small yellow, more orangeish, translucent rim",yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Algibacter,sp.
+I.F12,D0,fucus,-,-,I,fuzzy yellow,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,baltica
+I.F2,D0,nahant,-,-,I,dark dot in otherwise white ringed colony,black,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,nigrifaciens
+I.F3,D0,nahant,-,-,I,"big white, orangeish?, mucoid",white,x,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,indicum
+I.F5,D0,nahant,-,-,I,"yellowish transparent, very slimy",yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Tenacibaculum,sp.
+I.G1,D0,nahant,-,-,I,"white, transparent rim, structured dots in middle",white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+I.G5,D0,nahant,-,-,I,"clear black speckles at center, dark middle, white rim; smelly",black,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+I.H2,D0,nahant,-,-,I,"pink center, then dark grey, then white rings; pretty flat",black,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+I.H4,D0,nahant,-,-,I,"bright orange, small, some translucency",orange,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Nonlabens,sp.
+I1,D0,ica,-,-,-,orange,orange,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Lacinutrix,copepodicola
+I16_20C_r2,D7,ica,room,16,-,pink,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,baltica
+I3M07,Cordero,nahant,-,-,-,white large,white,x,Gammaproteobacteria,Vibrionales,Vibrionaceae,Aliivibrio,NA
+II.A1,D0,charles,-,-,II,tiny yellow,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,sp.
+II.A10,D0,ica,-,-,II,hard white,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,ostreae
+II.A11,D0,ica,-,-,II,"white orangeish opaque, bad smell",white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+II.A12,D0,ica,-,-,II,small yellow,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Polaribacter,sp.
+II.A2,D0,charles,-,-,II,pinkish,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,vesiculosa
+II.A3,D0,charles,-,-,II,"pinkish black, darker center",pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,baltica
+II.A4,D0,charles,-,-,II,small almost greenish white,white,x,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,cryohalolentis
+II.A5,D0,charles,-,-,II,light orange,orange,x,Bacilli,Bacillales,Bacillaceae,Rossellomorea,aquimaris
+II.A6,D0,charles,-,-,II,"blackish pink, slightly darker center",pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,sp.
+II.B1,D0,charles,-,-,II,"pinkish, opaque",pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,baltica
+II.B10,D0,ica,-,-,II,orangish white,orange,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+II.B11,D0,ica,-,-,II,"pinkish, opaque",pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,vesiculosa
+II.B12,D0,ica,-,-,II,sizeable orangeish pink?,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,vesiculosa
+II.B2,D0,charles,-,-,II,"tiny white, hint of structure",white,x,Bacilli,Bacillales,Bacillaceae,Bacillus,altitudinis
+II.B3,D0,charles,-,-,II,white irregular,white,x,Bacilli,Bacillales,Bacillaceae,Bacillus,mycoides
+II.B4,D0,charles,-,-,II,rubber looking white; interesting fluffy phenotype in liquid,white,x,Bacilli,Bacillales,Bacillaceae,Priestia,megaterium
+II.C1,D0,charles,-,-,II,"white fuzzy, like fluff; spheres in liquid",white,x,Bacilli,Bacillales,Bacillaceae,Bacillus,mycoides
+II.C10,D0,ica,-,-,II,white transparent,transparent,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+II.C2,D0,charles,-,-,II,light orange,orange,x,Bacilli,Caryophanales,Caryophanaceae,Jeotgalibacillus,alkaliphilus
+II.C3,D0,charles,-,-,II,"small white, very 3D",white,x,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,sp.
+II.C5,D0,charles,-,-,II,light yellow; interesting phenotype in liquid,yellow,x,Bacilli,Bacillales,Bacillaceae,Rossellomorea,marisflavi
+II.C6,D0,ica,-,-,II,"pinkish, opaque",pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,vesiculosa
+II.D1,D0,charles,-,-,II,"fluorescent orange (more yellow than II.H1), midsize/small",orange,x,Bacilli,Bacillales,Bacillaceae,Pseudoalkalibacillus,hwajinpoensis
+II.D10,D0,ica,-,-,II,hard white,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,neustonica
+II.D11,D0,ica,-,-,II,very small yellow translucent; agar eating?,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,sp.
+II.D12,D0,ica,-,-,II,structured white; translucent,white,x,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,sp.
+II.D2,D0,charles,-,-,II,pinkish center,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,vesiculosa
+II.D5,D0,charles,-,-,II,white irregular,white,x,Bacilli,Bacillales,Bacillaceae,Bacillus,toyonensis
+II.D6,D0,charles,-,-,II,tiny yellow,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,frigidarium
+II.E1,D0,charles,-,-,II,"orange/pink, opaque",pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,sp.
+II.E10,D0,ica,-,-,II,"black, dark center",black,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+II.E11,D0,ica,-,-,II,"white, somewhat mucoid, opaque",white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,carrageenovora
+II.E12,D0,ica,-,-,II,light yellow,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Polaribacter,marinaquae
+II.E3,D0,charles,-,-,II,rubber looking white,white,x,Bacilli,Bacillales,Bacillaceae,Priestia,megaterium
+II.E4,D0,charles,NA,NA,II,tiny translucent yellow,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,frigidarium
+II.E6,D0,charles,-,-,II,small round white,white,x,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,sp.
+II.F1,D0,charles,-,-,II,"light pinkish white, opaque",pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,baltica
+II.F10,D0,ica,-,-,II,"hard orange, tiny",orange,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Nonlabens,xylanidelens
+II.F11,D0,ica,-,-,II,small dark-yellow shiny,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Olleya,sp.
+II.F2,D0,charles,-,-,II,small white,white,x,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,piscatorii
+II.F3,D0,charles,-,-,II,"yellow orange, small",yellow,x,Bacilli,Bacillales,Bacillaceae,Pseudalkalibacillus,sp.
+II.F4,D0,charles,-,-,II,"tiny white, shiny",white,x,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,sp.
+II.F6,D0,charles,-,-,II,"tiny transparent, almost not there",transparent,x,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,sp.
+II.G11,D0,ica,-,-,II,white grey structured,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,sp.
+II.G2,D0,charles,-,-,II,light orange,orange,x,Bacilli,Bacillales,Bacillaceae,Rossellomorea,vietnamensis
+II.G4,D0,charles,-,-,II,tiny translucent yellow,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,sp.
+II.G5,D0,charles,-,-,II,pinkish orangish white,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,sp.
+II.H1,D0,charles,-,-,II,"fluorescent orange, midsize/small",orange,x,Bacilli,Caryophanales,Caryophanaceae,Planococcus,maritimus
+II.H10,D0,ica,-,-,II,white translucent,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,aliena
+II.H11,D0,ica,-,-,II,yellow translucent,yellow,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Polaribacter,irgensii
+II.H4,D0,charles,-,-,II,white/greenish irregular,white,x,Bacilli,Bacillales,Bacillaceae,Bacillus,wiedmannii
+isolate_59,Cordero,nahant,-,-,-,brown grey,brown,x,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Sulfitobacter,NA
+N1,D0,nahant,-,-,-,white/pink structured,pink,x,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Cognaticolwellia,sediminilitoris
+N16_20C_D3_1,D3,nahant,room,16,-,white,white,x,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,arctica
+N2,D0,nahant,-,-,-,white pinkish,pink,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,electrodiphila
+N3,D0,nahant,-,-,-,tiny orange,orange,x,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Nonlabens,dokdonensis
+new_C1,D0,charles,-,-,-,-,-,x,Bacilli,Caryophanales,Caryophanaceae,Planococcus,citreus
+new_C10,D0,charles,-,-,-,-,-,x,Bacilli,Bacillales,Bacillaceae,Rossellomorea,marisflavi
+new_C2,D0,charles,-,-,-,-,-,x,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,piscatorii
+new_C3,D0,charles,-,-,-,-,-,x,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,bouvetii
+new_C4,D0,charles,-,-,-,-,-,x,Bacilli,Bacillales,Bacillaceae,Bacillus,thuringiensis
+new_C5,D0,charles,-,-,-,-,-,x,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,movanagherensis
+new_C8,D0,charles,-,-,-,-,-,x,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,weihenstephanensis
+new_C9,D0,charles,-,-,-,-,-,x,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,piscatorii
+new_N5,D0,nahant,-,-,-,-,-,x,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,donghaensis

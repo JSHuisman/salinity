@@ -1,0 +1,82 @@
+isolate_id,plate_date,inoc,plate_temperature,plate_salinity,morphology,color,Kingdom,Phylum,Class,Order,Family,Genus,copy_number_NCBI,Species,n_growth_meas
+1,D7,fucus,room,31,egg,orangish,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.508,arctica/citrea/espejiana/issachenkonii/translucida,3
+2,D7,nahant,15C,46,black outer ring dark,black,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.567272727272726,arctica/citrea/distincta/elyakovii/espejiana/flavipulchra/gracilis/haloplanktis/issachenkonii/paragorgicola/translucida,11
+3,D7,nahant,15C,46,black outer ring light,black,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.508,arctica/citrea/espejiana/issachenkonii/translucida,3
+4,D7,charles,room,31,super pink tiny,pink,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Algoriphagus,3,NA,8
+5,D7,fucus,15C,46,black,black,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.567272727272726,arctica/citrea/distincta/elyakovii/espejiana/flavipulchra/gracilis/haloplanktis/issachenkonii/paragorgicola/translucida,5
+6,D7,charles,room,16,pink large opaque,pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Shewanellaceae,Shewanella,9.21,baltica/putrefaciens,8
+7,D7,nahant,15C,31,orangeish,orangish,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.693333333333333,arctica/distincta/elyakovii/flavipulchra/haloplanktis/paragorgicola,4
+8,D7,charles,room,31,white large,white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.54,haloplanktis,10
+9,D7,nahant,15C,31,light pink structured,pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,10,aliena,5
+10,D7,charles,room,16,white,white,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,7.25,fragi,6
+11,D7,nahant,15C,31,pinkish-whiteish,pinkish,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.693333333333333,arctica/distincta/elyakovii/flavipulchra/haloplanktis/paragorgicola,4
+13,D7,nahant,room,46,whitish irregular,whitish,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.693333333333333,arctica/distincta/elyakovii/flavipulchra/haloplanktis/paragorgicola,6
+14,D7,fucus,room,16,small translucent,translucent,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,1.25,nubinhibens,7
+16,D7,charles,room,16,pearl-like white small,white,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,6.7,bohemicus/movanagherensis,4
+17,D7,nahant,15C,16,white opaque irregular,white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,9,arctica,4
+18,D7,nahant,room,31,small translucent,translucent,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Ahrensia,3.24,NA,9
+19,D7,nahant,room,16,yellow round translucent,yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lacinutrix,2.5,mariniflava,8
+21,D7,nahant,room,16,yellow fuzzy,yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,4,NA,6
+25,D7,charles,room,31,white opaque round bubbly,white,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Albirhodobacter,2.49,confluentis/marinus,8
+26,D7,nahant,room,16,round small white translucent,white,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Sulfitobacter,2.5,brevis,7
+27,D7,fucus,15C,31,pink graw translucent,pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,10,aliena,5
+28,D7,charles,15C,31,white translucent outer - opaque mid,white,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinomonadaceae,Marinomonas,8,polaris,6
+29,D7,nahant,room,46,orangish irregular,orangish,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.54,NA,5
+30,D7,charles,room,46,translucent medium,translucent,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinomonadaceae,Marinomonas,8,NA,6
+32,D7,nahant,15C,46,pink-grey large opaque,pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.54,NA,5
+35,D7,nahant,15C,16,pink opaque small,pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Shewanellaceae,Shewanella,8.5,livingstonensis/vesiculosa,7
+38,D7,ica,room,31,translucent/transparent,translucent,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinomonadaceae,Marinomonas,8,NA,3
+39,D7,ica,room,16,round white small,white,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,7.25,fragi,7
+40,D7,ica,room,16,pink large,pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Shewanellaceae,Shewanella,9.01,NA,7
+41,D7,ica,room,16,white round top,white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.54,NA,5
+42,D7,ica,room,16,small round white,white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,7.982857142857143,aerogenes/asburiae/bugandensis/cancerogenus/cloacae/hormaechei/ludwigii,8
+43,D7,ica,room,16,large translucent,translucent,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,10,aliena,5
+44,D7,ica,room,16,small pinkish translucent,pinkish,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Aeromonadaceae,Aeromonas,9.813333333333333,caviae/dhakensis/hydrophila/salmonicida/sobria/veronii,6
+45,D7,ica,room,16,white translucent medium,white,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinomonadaceae,Marinomonas,8,polaris,3
+B2R09,Cordero,nahant,-,-,white/brown small,white,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,1.25,NA,3
+B2R22,Cordero,nahant,-,-,-,-,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Octadecabacter,1.5,NA,5
+B3M08,Cordero,nahant,-,-,translucent small,translucent,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Lentibacter,2.49,NA,5
+C1,D0,charles,-,-,yellow white,orange,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Jeotgalibacillus,9,NA,3
+C2,D0,charles,-,-,tiny red,red,Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Arthrobacter,5.45,NA,3
+C2R09,Cordero,nahant,-,-,yellow small,yellow,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,2.67,kamogawaensis,6
+C3,D0,charles,-,-,fluorescent yellow green,yellow,Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Paeniglutamicibacter,7,antarcticus,3
+E3R09,Cordero,nahant,-,-,-,-,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Winogradskyella,2.71,NA,3
+I.A2,D0,nahant,-,-,"pink brown, ring structure (central bump?), some effect on agar",pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Shewanellaceae,Shewanella,9.01,NA,3
+I.B12,D0,fucus,-,-,"dark grey center, broad white rim",black,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.54,NA,4
+I.B2,D0,nahant,-,-,"white, structured with rim",white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Colwelliaceae,Colwellia,7.5,NA,3
+I.B5,D0,nahant,-,-,"small yellow, almost fluorescent from bottom",yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Dokdonia,3,NA,3
+I.D4,D0,nahant,-,-,"white, structured with rim; interesting phenotype in liquid",white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Colwelliaceae,Colwellia,7.5,NA,3
+I.D5,D0,nahant,-,-,white yellowish; structured with dots in center; interesting branches in liquid,white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Colwelliaceae,Colwellia,7.5,NA,5
+I.E12,D0,fucus,-,-,"whiteish yellow mucoid, some translucency; smelly",yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Polaribacter,3.88,NA,6
+I.E2,D0,nahant,-,-,"whiteish yellowish brownish, mucoid",yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Polaribacter,3.88,NA,8
+I.E3,D0,nahant,-,-,"small yellow, very defined, almost fluorescent from bottom",yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Olleya,4.67,marilimosa/namhaensis,3
+I.E4,D0,nahant,-,-,"small yellow, more orangeish, translucent rim",yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Algibacter,3.33,NA,3
+I.F12,D0,fucus,-,-,fuzzy yellow,yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,4,baltica,3
+I.F3,D0,nahant,-,-,"big white, orangeish?, mucoid",white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Photobacterium,13.91,NA,7
+I1,D0,ica,-,-,orange,orange,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Lacinutrix,2.5,NA,8
+I3M07,Cordero,nahant,-,-,white large,white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Vibrio,10.66,NA,6
+II.A1,D0,charles,-,-,tiny yellow,yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,4.92,NA,3
+II.A11,D0,ica,-,-,"white orangeish opaque, bad smell",white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.54,NA,3
+II.A12,D0,ica,-,-,small yellow,yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Polaribacter,3.88,NA,3
+II.A4,D0,charles,-,-,small almost greenish white,white,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,4.4399999999999995,cryohalolentis/glacialis,5
+II.A5,D0,charles,-,-,light orange,orange,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,10.27,NA,3
+II.B2,D0,charles,-,-,"tiny white, hint of structure",white,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,9.644,aerius/aerophilus/altitudinis/amyloliquefaciens/aryabhattai/cellulasensis/cereus/flexus/licheniformis/pumilus/safensis/stratosphericus/subtilis/thuringiensis/xiamenensis,5
+II.B4,D0,charles,-,-,rubber looking white; interesting fluffy phenotype in liquid,white,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,10.103333333333332,aryabhattai/megaterium/subtilis,4
+II.C10,D0,ica,-,-,white transparent,transparent,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8.54,NA,3
+II.C5,D0,charles,-,-,light yellow; interesting phenotype in liquid,yellow,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,10.27,NA,4
+II.C6,D0,ica,-,-,"pinkish, opaque",pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Shewanellaceae,Shewanella,8.5,livingstonensis/vesiculosa,3
+II.D1,D0,charles,-,-,"fluorescent orange (more yellow than II.H1), midsize/small",orange,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Aureibacillus,9.24,NA,3
+II.D12,D0,ica,-,-,structured white; translucent,white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Colwelliaceae,Colwellia,7.5,NA,4
+II.D5,D0,charles,-,-,white irregular,white,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,11.834285714285716,albus/amyloliquefaciens/anthracis/aryabhattai/bingmayongensis/bombysepticus/cereus/cytotoxicus/gaemokensis/luti/manliponensis/mobilis/mycoides/oryzaecorticis/proteolyticus/pseudomycoides/pumilus/subtilis/thuringiensis/toyonensis/wiedmannii,3
+II.E11,D0,ica,-,-,"white, somewhat mucoid, opaque",white,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pseudoalteromonadaceae,Pseudoalteromonas,8,marina,5
+II.E6,D0,charles,-,-,small round white,white,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,6.7,bohemicus,4
+II.F1,D0,charles,-,-,"light pinkish white, opaque",pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Shewanellaceae,Shewanella,10,baltica,6
+II.F10,D0,ica,-,-,"hard orange, tiny",orange,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Nonlabens,2.355,dokdonensis/xylanidelens,6
+II.F11,D0,ica,-,-,small dark-yellow shiny,yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Olleya,4.67,NA,3
+II.F2,D0,charles,-,-,small white,white,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,4.38,NA,10
+II.F3,D0,charles,-,-,"yellow orange, small",yellow,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Aureibacillus,9.24,NA,3
+II.F4,D0,charles,-,-,"tiny white, shiny",white,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,6.027,arsenicoxydans/ficuserectae/fluorescens/gregormendelii/lini/mandelii/migulae/monteilii/prosekii/silesiensis,3
+II.G4,D0,charles,-,-,tiny translucent yellow,yellow,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,4.92,NA,4
+II.H1,D0,charles,-,-,"fluorescent orange, midsize/small",orange,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planococcus,8.844999999999999,citreus/rifietoensis,3
+isolate_59,Cordero,nahant,-,-,brown grey,brown,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Sulfitobacter,2.5,NA,4
+N1,D0,nahant,-,-,white/pink structured,pink,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Colwelliaceae,Colwellia,7.5,NA,3
